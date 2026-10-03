@@ -1,12 +1,12 @@
 
-# 📊 Excel Practice & Learning Journey
+# Excel Practice & Learning Journey
 
-Welcome to my **Excel Practice Repository**! 🚀
+Welcome to my **Excel Practice Repository**! 
 This repository contains my hands-on practice, exercises, formulas, and learning journey with **Microsoft Excel**.
 
-## 🧠 Topics & Skills Practiced
+##  Topics & Skills Practiced
 
-### 🔢 Basic & Mathematical Functions
+### Basic & Mathematical Functions
 
 * `SUM`
 * `AVERAGE`
@@ -16,7 +16,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * `PRODUCT`
 * `SUBTOTAL`
 
-### 📌 Logical Functions
+###  Logical Functions
 
 * `IF`
 * `IFS`
@@ -25,7 +25,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * `NOT`
 * Nested `IF`
 
-### 🔎 Lookup & Reference Functions
+###  Lookup & Reference Functions
 
 * `VLOOKUP`
 * `HLOOKUP`
@@ -34,7 +34,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * `MATCH`
 * `INDEX + MATCH`
 
-### 🔤 Text Functions
+###  Text Functions
 
 * `LEFT`
 * `RIGHT`
@@ -51,7 +51,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * `SEARCH`
 * `SUBSTITUTE`
 
-### 📊 Counting & Conditional Functions
+### Counting & Conditional Functions
 
 * `COUNT`
 * `COUNTA`
@@ -63,7 +63,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * `AVERAGEIF`
 * `AVERAGEIFS`
 
-### ⚠️ Error Handling
+###  Error Handling
 
 * `IFERROR`
 * `IFNA`
@@ -76,7 +76,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
   * `#NAME?`
   * `#NUM!`
 
-### 🧹 Data Cleaning & Management
+###  Data Cleaning & Management
 
 * Removing duplicates
 * Sorting & filtering data
@@ -86,7 +86,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * Data cleaning with formulas
 * Handling blank and incorrect values
 
-### ✅ Data Validation
+###  Data Validation
 
 * Creating dropdown lists
 * Restricting input values
@@ -94,14 +94,14 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * Custom validation rules
 * Creating user-friendly data-entry sheets
 
-### 🏷️ Named Ranges
+###  Named Ranges
 
 * Creating and managing Named Ranges
 * Using Named Ranges inside formulas
 * Making formulas easier to understand
 * Using names for dynamic and organized calculations
 
-### 📅 Date & Time Functions
+###  Date & Time Functions
 
 * `TODAY`
 * `NOW`
@@ -113,7 +113,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * `NETWORKDAYS`
 * `WORKDAY`
 
-### 🔄 Dynamic Array Functions
+###  Dynamic Array Functions
 
 * `FILTER`
 * `SORT`
@@ -122,7 +122,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * `SEQUENCE`
 * `TRANSPOSE`
 
-### 🎨 Excel Formatting & Tools
+###  Excel Formatting & Tools
 
 * Conditional Formatting
 * Cell Formatting
@@ -132,7 +132,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * Relative & Absolute References
 * `$A$1`, `A$1`, `$A1`
 
-### 📈 Data Analysis
+###  Data Analysis
 
 * Pivot Tables
 * Pivot Charts
@@ -141,7 +141,7 @@ This repository contains my hands-on practice, exercises, formulas, and learning
 * Basic dashboard creation
 * Data visualization
 
-## 🎯 My Learning Goal
+## My Learning Goal
 
 The goal of this repository is to **build strong practical Excel skills through continuous practice** and gradually move from basic formulas to advanced **Data Analysis and Excel Automation**.
 
